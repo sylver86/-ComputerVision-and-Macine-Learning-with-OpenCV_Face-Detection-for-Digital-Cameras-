@@ -1,3 +1,4 @@
+
 # Face Detection for Digital Cameras
 
 🎯 **Project Objective:**
@@ -17,6 +18,24 @@ The goal of this project is to develop a reliable facial identification system u
 💡 **Innovative Approaches:**
   - Conducted extensive literature research to select machine learning models that are both effective and computationally inexpensive, ensuring the system's feasibility for use in consumer-grade cameras.
   - Employed state-of-the-art data preprocessing and feature extraction techniques to maintain high accuracy while minimizing computational demands.
+
+## Detailed Project Workflow
+
+🔍 **Dataset Research and Selection:**
+  - Identified and selected a public facial recognition dataset suitable for the project's objectives.
+  - Prepared the data for training, including necessary cleaning, normalization, and bounding box annotation.
+
+📊 **Data Exploration and Preparation:**
+  - Analyzed the dataset to understand its characteristics and potential challenges.
+  - Implemented necessary preprocessing procedures to prepare the data for training.
+
+🛠️ **Model Choice and Training:**
+  - Conducted literature research to identify the most suitable and computationally light machine learning models.
+  - Developed and trained the model on the selected dataset, performing cross-validation to test its effectiveness.
+
+⚙️ **Prediction Pipeline Implementation:**
+  - Created a scikit-learn pipeline integrating data preprocessing, feature extraction, and model inference stages.
+  - Optimized the pipeline to maximize performance while keeping computational requirements low.
 
 ## Your Experience Journey
 
