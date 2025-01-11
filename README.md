@@ -49,4 +49,4 @@ The goal of this project is to develop a reliable facial identification system u
 
 ## Explore My Code
 
-🔗 **GitHub Repository:** Dive into the codebase to discover the journey of crafting a cutting-edge face detection system. Understand the detailed steps taken, from dataset preparation to model training and pipeline optimization. See how each phase contributes to a reliable and efficient product, ready for integration into digital cameras.
+🔗 **GitHub Repository:** Dive into the codebase (Notebook file .ipynb) to discover the journey of crafting a cutting-edge face detection system. Understand the detailed steps taken, from dataset preparation to model training and pipeline optimization. See how each phase contributes to a reliable and efficient product, ready for integration into digital cameras.
